@@ -6,8 +6,8 @@
 ##### NOW
 
 - 🎓 Working in my [Ph.D. Thesis](https://bv.fapesp.br/en/bolsas/184201/power-distribution-system-expansion-planning-considering-the-hosting-capacity-of-distributed-energy/)
-in [USP/EESC](https://eesc.usp.br/en/);
-- 📊 Studying Project Management in [USP/ESALQ](https://en.mbauspesalq.com/cursos/mba-in-project-management/);
+in USP/EESC;
+- 📊 Studying Project Management in USP/ESALQ;
 - 👑 Is this real life? Is this just fantasy?
 
 ##### BIO
