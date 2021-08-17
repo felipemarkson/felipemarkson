@@ -17,7 +17,7 @@ in USP/EESC;
 - 🌱 Learning about **Rust** 🦀 and loving it!
 - 💬 Ping me about **electrical distribution systems**, **renewable energies**, **machine learning** and **project management**.
 - ⚡ I’m interested in all computing and math stuff to solve electrical power systems problems.
-- 💞️ I’m looking  collaborations on [DSSData](https://github.com/felipemarkson/dssdata).
+- 💞️ I'm looking for collaborations on [DSSData](https://github.com/felipemarkson/dssdata).
 - 🎮 Fun fact: I'm a decent pos. 5 in Dota 2.
 
 
