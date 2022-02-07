@@ -15,8 +15,8 @@ in USP/EESC;
 - ⚙️ I use daily: **Python** 🐍 and **Julia** 💜.
 - ⌛ I have experience with **Machine Learning**, **Optimization**, and **Mathematical Modelling**.
 - 🌱 Learning about **Rust** 🦀 and loving it!
-- 💬 Ping me about **electrical distribution systems**, **renewable energies**, **machine learning** and **project management**.
-- ⚡ I’m interested in all computing and math stuff to solve electrical power systems problems.
+- 💬 Ping me about **Optmization**, **machine learning**, **electrical distribution systems**, **renewable energies**, and **project management**.
+- ⚡ I’m interested in all computing and math stuff to solve applying problems.
 - 💞️ I'm looking for collaborations on [DSSData](https://github.com/felipemarkson/dssdata).
 - 🎮 Fun fact: I'm a decent pos. 5 in Dota 2.
 
