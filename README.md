@@ -18,7 +18,7 @@ in USP/EESC;
 - 💬 Ping me about **Optmization**, **machine learning**, **electrical distribution systems**, **renewable energies**, and **project management**.
 - ⚡ I’m interested in all computing and math stuff to solve applying problems.
 - 💞️ I'm looking for collaborations on [DSSData](https://github.com/felipemarkson/dssdata).
-- 🎮 Fun fact: I'm a decent pos. 5 in Dota 2.
+- 🎮 Fun fact: e4/e5 are the best moves. Change my mind.
 
 
 
