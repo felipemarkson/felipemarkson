@@ -10,7 +10,7 @@ in [USP/EESC](https://eesc.usp.br/ppgs/sel/en.php).
 
 ##### BIO
 
-- 🎓 Bachalor in Electrical Engineering by [UEA/EST](https://www1.uea.edu.br/?lang=en).
+- 🎓 Bachelor in Electrical Engineering by [UEA/EST](https://www1.uea.edu.br/?lang=en).
 - 🎓 Master in Electrical Power Systems by [USP/EESC](https://eesc.usp.br/ppgs/sel/en.php).
 - 🎓 MBA in Project Management by [USP/ESALQ](https://mbauspesalq.com/en/about-us).
 - ⚙️ I use daily: **Python** 🐍 and **Julia** 💜.
