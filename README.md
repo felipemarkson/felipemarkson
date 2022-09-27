@@ -16,13 +16,14 @@ in [USP/EESC](https://eesc.usp.br/ppgs/sel/en.php).
 - ⚙️ I use daily: **Python** 🐍 and **Julia** 💜.
 - ⌛ I have experience with **Machine Learning**, **Optimization**, and **Mathematical Modelling**.
 - 🌱 Learning about **Rust** 🦀 and loving it!
-- 💬 Ping me about **Optmization**, **machine learning**, **electrical distribution systems**, **renewable energies**, and **project management**.
+- 💬 Ping me about **Optimization**, **Machine learning**, **electrical distribution systems**, **renewable energies**, and **project management**.
 - ⚡ I’m interested in all computing and math stuff to solve applying problems.
 - 💞️ I'm looking for collaborations on [DSSData](https://github.com/felipemarkson/dssdata).
-- 🎮 Fun fact: e4/e5 are the best moves. Change my mind.
+- 🎮 Fun fact: 1.e4/e5 are the best moves. Change my mind.
 
+##### PUBLICATIONS
 
-
+I'm always interested in collaborating in researching papers on electrical power systems. Please look at my last [publications](https://scholar.google.com/citations?user=0hIO8uwAAAAJ) if you are interested and contact me. 😄
 
 <!---
 felipemarkson/felipemarkson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
