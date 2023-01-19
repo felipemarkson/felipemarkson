@@ -5,6 +5,8 @@
 
 ##### NOW
 
+- ⚙️ Electrical Power Systems Software Engineer at [Siemens](https://www.siemens.com).
+
 - 🎓 Working in my [D.Sc. Thesis](https://bv.fapesp.br/en/bolsas/184201/power-distribution-system-expansion-planning-considering-the-hosting-capacity-of-distributed-energy/)
 in [USP/EESC](https://eesc.usp.br/ppgs/sel/en.php).
 
@@ -13,7 +15,7 @@ in [USP/EESC](https://eesc.usp.br/ppgs/sel/en.php).
 - 🎓 Bachelor in Electrical Engineering by [UEA/EST](https://www1.uea.edu.br/?lang=en).
 - 🎓 Master in Electrical Power Systems by [USP/EESC](https://eesc.usp.br/ppgs/sel/en.php).
 - 🎓 MBA in Project Management by [USP/ESALQ](https://mbauspesalq.com/en/about-us).
-- ⚙️ I use daily: **Python** 🐍 and **Julia** 💜.
+- ⚙️ I use daily: **Python** 🐍, **Julia** 💜, **C/C++** ⚙️.
 - ⌛ I have experience with **Machine Learning**, **Optimization**, and **Mathematical Modelling**.
 - 🌱 Learning about **Rust** 🦀 and loving it!
 - 💬 Ping me about **Optimization**, **Machine learning**, **electrical distribution systems**, **renewable energies**, and **project management**.
