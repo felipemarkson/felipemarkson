@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a fusion of an Electrical Engineer, Scientist, and Dev working in São Carlos, Brazil. 👷👨‍🔬👨‍💻
+#### I'm a fusion of an Electrical Engineer, Scientist, and Dev working in Campinas, Brazil. 👷👨‍🔬👨‍💻
 
 
 ##### NOW
